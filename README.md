@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">Aspiring Analyst | Data, Business & Strategy</h3>
+
 
 ---
 
@@ -19,33 +19,6 @@ My journey has built a solid foundation in structured thinking, analytical reaso
 - 📈 Tableau & Power BI (Data Visualization & Reporting)  
 - 💻 Frontend Development (HTML, CSS, JavaScript)  
 - ⚙️ Analytical tools & problem-solving frameworks  
-
----
-
-## 🚀 What I Do
-
-- Work with datasets to extract meaningful insights  
-- Build dashboards and reports for decision-making  
-- Translate raw data into structured, actionable outputs  
-- Break down complex problems into logical components  
-
----
-
-## 🎯 Interests
-
-- Business Analytics  
-- Data Strategy  
-- Consulting  
-- Operations  
-- Technology-driven decision making  
-
----
-
-## 📈 Current Focus
-
-- Strengthening analytical and technical skillset  
-- Building real-world projects in data & finance  
-- Creating a strong, practical portfolio  
 
 ---
 
