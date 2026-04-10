@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 
-
----
-
-## 👨‍💻 About Me
-
 Currently pursuing a postgraduate degree in MBA, with an undergraduate background in B.Tech.
 
 I enjoy working at the intersection of **technology, data, and business problems** — where insights meet real-world impact.
 
----
 
 ## 🧠 Core Skills
 
