@@ -7,7 +7,7 @@
 
 Currently pursuing a postgraduate degree in MBA, with an undergraduate background in B.Tech.
 
-My journey has built a solid foundation in structured thinking, analytical reasoning, and disciplined execution. I enjoy working at the intersection of **technology, data, and business problems** — where insights meet real-world impact.
+I enjoy working at the intersection of **technology, data, and business problems** — where insights meet real-world impact.
 
 ---
 
