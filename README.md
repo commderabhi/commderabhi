@@ -4,6 +4,7 @@ Currently pursuing a postgraduate degree in MBA, with an undergraduate backgroun
 
 I enjoy working at the intersection of **technology, data, and business problems** — where insights meet real-world impact.
 
+---
 
 ## 🧠 Core Skills
 
