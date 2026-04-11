@@ -12,7 +12,9 @@ I enjoy working at the intersection of **technology, data, and business problems
 - 🗄️ SQL (Joins, Aggregations, Query Optimization)  
 - 🐍 Python (Data Handling & Analysis)  
 - 📈 Tableau & Power BI (Data Visualization & Reporting)  
-- 💻 Frontend Development (HTML, CSS, JavaScript)  
+- 💻 Frontend Development (HTML, CSS, JavaScript)
+- 🗄️ Database Management (DBMS)
+- 🔧 Version Control (Git, GitHub) 
 - ⚙️ Analytical tools & problem-solving frameworks  
 
 ---
