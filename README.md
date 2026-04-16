@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 
-MBA student with a B.Tech background, learning and growing in business and tech.
+An MBA student with a B.Tech background, learning and growing in business and tech.
 
 I enjoy working at the intersection of **technology, data, and business problems** — where insights meet real-world impact.
 
