@@ -29,4 +29,4 @@ Simple projects, real learning, continuous growth.
 
 ---
 
-⭐ **Focused. Adaptable. Execution-driven. Always building.**
+⭐ **Leadership. Teamwork. Adaptability. Always building.**
