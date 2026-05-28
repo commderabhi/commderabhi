@@ -8,7 +8,7 @@ Simple projects, real learning, continuous growth.
 
 ---
 
-## 🧠 Core Skills
+## 💡 My Technical Toolkit:
 
 - 📊 Advanced Excel — data analysis, dashboards, formulas, and reporting.
 - 🗄️ SQL — data querying, joins, aggregations, and management.
