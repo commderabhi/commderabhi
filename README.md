@@ -31,4 +31,4 @@ Simple projects, real learning, continuous growth.
 
 ---
 
-⭐ **Leadership. Teamwork. Adaptability. Always building.**
+⭐ **Learning. Building. Evolving.**
