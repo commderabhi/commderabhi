@@ -10,14 +10,16 @@ Simple projects, real learning, continuous growth.
 
 ## 🧠 Core Skills
 
-- 📊 Advanced Excel (Data Cleaning, Analysis, Dashboards)  
-- 🗄️ SQL (Joins, Aggregations, Query Optimization)  
-- 🐍 Python (Data Handling & Analysis)  
-- 📈 Tableau & Power BI (Data Visualization & Reporting)  
-- 💻 Frontend Development (HTML, CSS, JavaScript)
-- 🗄️ Database Management (DBMS)
-- 🔧 Version Control (Git, GitHub) 
-- ⚙️ Analytical tools & problem-solving frameworks  
+- 📊 Advanced Excel — data analysis, dashboards, formulas, and reporting.
+- 🗄️ SQL — data querying, joins, aggregations, and management.
+- 🐍 Python — data analysis, scripting, automation, and exploratory data analysis (EDA).
+- 📈 Tableau & Power BI — dashboards, visualization, and reporting.
+- 🗃️ Database Management — structured data handling and database fundamentals.
+- ☁️ AWS & Snowflake — cloud analytics and data warehousing.
+- 🔄 ETL Processes — data extraction, transformation, and loading workflows.
+- 🧠 Generative AI & Feature Engineering — AI workflows and predictive data optimization.
+- 💻 Front-End Development — responsive and user-focused web interfaces.
+- 🔧 Git & GitHub — version control and collaborative development workflows. 
 
 ---
 
